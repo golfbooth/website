@@ -1,0 +1,490 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Mobile Golf Simulator Rental in Ottawa & Gatineau | GolfBooth",
+      "description": "Bring a premium mobile golf simulator to your next event in Ottawa and Gatineau. Perfect for corporate events, tournaments, trade shows, and private parties. Request a quote today."
+    },
+    "ottawa": {
+      "title": "Golf Simulator Rental Ottawa | Mobile Event Simulator | GolfBooth",
+      "description": "Rent a mobile golf simulator for your Ottawa event. GolfBooth delivers, sets up, and runs a premium golf experience at your venue. Serving Kanata, Orléans, Nepean, Barrhaven, and more."
+    },
+    "gatineau": {
+      "title": "Golf Simulator Rental Gatineau | Mobile Event Simulator | GolfBooth",
+      "description": "Mobile golf simulator rental for events in Gatineau, Aylmer, Hull, and Chelsea. Premium setup, professional service, unforgettable guest experience. Request a quote."
+    },
+    "corporate": {
+      "title": "Corporate Event Entertainment Ottawa | Golf Simulator | GolfBooth",
+      "description": "Elevate your next corporate event with a mobile golf simulator. Team-building, client events, and holiday parties in Ottawa and Gatineau. Request a quote."
+    },
+    "tournaments": {
+      "title": "Golf Simulator Rental for Golf Tournaments | GolfBooth",
+      "description": "Add a mobile golf simulator to your golf tournament. Pre-round warm-up, longest drive contests, and sponsor activations. Serving Ottawa and Gatineau."
+    },
+    "tradeShows": {
+      "title": "Trade Show Booth Activation Ottawa Gatineau | GolfBooth",
+      "description": "Draw crowds to your trade show booth with a mobile golf simulator activation. Premium, engaging, and memorable. Ottawa and Gatineau. Request a quote."
+    },
+    "contact": {
+      "title": "Request a Quote | GolfBooth Mobile Golf Simulator Rental",
+      "description": "Tell us about your event and we'll send you a custom quote for mobile golf simulator rental in Ottawa, Gatineau, and surrounding areas."
+    },
+    "thankYou": {
+      "title": "Thank You | GolfBooth",
+      "description": "We received your request and will be in touch shortly."
+    },
+    "privacy": {
+      "title": "Privacy Policy | GolfBooth",
+      "description": "How GolfBooth collects, uses, and protects your personal information."
+    },
+    "terms": {
+      "title": "Terms & Conditions | GolfBooth",
+      "description": "The terms and conditions governing the use of the GolfBooth website and services."
+    },
+    "notFound": {
+      "title": "Page Not Found | GolfBooth",
+      "description": "The page you are looking for could not be found."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "events": "Events",
+    "corporate": "Corporate Events",
+    "tournaments": "Golf Tournaments",
+    "tradeShows": "Trade Shows & Activations",
+    "ottawa": "Ottawa",
+    "gatineau": "Gatineau",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "cta": {
+    "requestQuote": "Request a Quote",
+    "seeHowItWorks": "See How It Works"
+  },
+  "hero": {
+    "title": "Mobile Golf Simulator Rental in Ottawa & Gatineau",
+    "subtitle": "Bring the game to your guests. We deliver, set up, and run a premium golf experience anywhere in Ottawa and Gatineau."
+  },
+  "trust": {
+    "items": [
+      "Fully mobile setup",
+      "Indoor or outdoor",
+      "Pro-grade simulator",
+      "Serving Ottawa–Gatineau"
+    ]
+  },
+  "what": {
+    "heading": "What is GolfBooth?",
+    "lead": "A premium golf simulator that travels to your event.",
+    "body": "GolfBooth is a sleek, branded golf simulator booth that we bring to your venue, set up, and run for your guests. No golf course, no hassle — just a high-end, interactive experience that fits corporate parties, tournaments, trade shows, and private events.",
+    "points": [
+      "Professional-grade launch monitor and stunning course visuals",
+      "Sleek branded booth that fits corporate, sport, and festival settings",
+      "On-site staff to set up, run challenges, and keep the line moving"
+    ],
+    "imageAlt": "GolfBooth mobile golf simulator booth set up at an indoor event"
+  },
+  "video": {
+    "heading": "See the Booth in Action",
+    "subtitle": "A look at the GolfBooth experience — premium, mobile, and built for events.",
+    "caption": "3D render shown. Real event footage coming soon."
+  },
+  "eventTypes": {
+    "heading": "Perfect For",
+    "subtitle": "One booth, endless event possibilities.",
+    "items": {
+      "corporate": {
+        "title": "Corporate Events",
+        "description": "Team-building, client appreciation, and holiday parties that people actually remember."
+      },
+      "tournaments": {
+        "title": "Golf Tournaments",
+        "description": "Pre-round warm-ups, longest drive contests, and sponsor activations."
+      },
+      "tradeShows": {
+        "title": "Trade Shows & Activations",
+        "description": "Draw crowds to your booth and turn foot traffic into conversations."
+      },
+      "private": {
+        "title": "Private & Festivals",
+        "description": "Fundraisers, birthdays, weddings, and community festivals."
+      }
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "steps": [
+      {
+        "title": "Request a Quote",
+        "description": "Tell us your date, location, and event type. We'll send a custom quote."
+      },
+      {
+        "title": "Plan Your Event",
+        "description": "We confirm the details, space, and any custom branding or challenges."
+      },
+      {
+        "title": "We Deliver & Set Up",
+        "description": "Our team arrives, installs the booth, and handles everything on-site."
+      },
+      {
+        "title": "Your Guests Play",
+        "description": "We run the experience while you enjoy the event with your guests."
+      }
+    ]
+  },
+  "challenges": {
+    "heading": "Golf Challenges",
+    "subtitle": "Friendly competition that keeps guests coming back.",
+    "items": [
+      {
+        "title": "Longest Drive",
+        "description": "Who can send it the furthest? A leaderboard favourite."
+      },
+      {
+        "title": "Closest to the Pin",
+        "description": "Precision over power — great for all skill levels."
+      },
+      {
+        "title": "Team Battles",
+        "description": "Department vs. department, table vs. table — bring the energy."
+      },
+      {
+        "title": "Famous Courses",
+        "description": "Play world-renowned courses without leaving the room."
+      }
+    ]
+  },
+  "whyBook": {
+    "heading": "Why Book GolfBooth?",
+    "items": [
+      {
+        "title": "Fully Mobile",
+        "description": "We come to you — any venue, indoor or outdoor, across Ottawa and Gatineau."
+      },
+      {
+        "title": "Premium Equipment",
+        "description": "A professional-grade launch monitor and crisp, realistic course visuals."
+      },
+      {
+        "title": "Professional Setup",
+        "description": "Our team handles delivery, installation, and teardown. You do nothing."
+      },
+      {
+        "title": "Built for Events",
+        "description": "Designed to entertain crowds and create moments — not just hit balls."
+      }
+    ]
+  },
+  "serviceArea": {
+    "heading": "Serving Ottawa & Gatineau",
+    "body": "GolfBooth proudly serves the entire National Capital Region and surrounding communities.",
+    "ottawaCta": "Ottawa golf simulator rental",
+    "gatineauCta": "Gatineau golf simulator rental"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know to get started.",
+    "items": [
+      {
+        "question": "How much space does the booth need?",
+        "answer": "The booth works in most indoor and outdoor spaces. Once we know your venue, we'll confirm the exact footprint and ceiling height needed."
+      },
+      {
+        "question": "Do you set everything up?",
+        "answer": "Yes. Our team handles delivery, full setup, on-site operation, and teardown. You just enjoy your event."
+      },
+      {
+        "question": "What areas do you serve?",
+        "answer": "We serve Ottawa, Gatineau, and surrounding communities including Kanata, Orléans, Nepean, Barrhaven, Aylmer, Hull, and Chelsea."
+      },
+      {
+        "question": "Can it go indoors and outdoors?",
+        "answer": "Both. The booth is designed for indoor venues and covered outdoor setups. Let us know your plan and we'll advise."
+      },
+      {
+        "question": "How far in advance should I book?",
+        "answer": "The earlier the better, especially during peak season. Reach out with your date and we'll confirm availability."
+      },
+      {
+        "question": "How do I get a price?",
+        "answer": "Pricing is custom to your event. Request a quote with your details and we'll send you a tailored estimate."
+      }
+    ]
+  },
+  "finalCta": {
+    "heading": "Ready to bring GolfBooth to your event?",
+    "subtitle": "Tell us about your event and we'll send a custom quote — usually within one business day.",
+    "button": "Request a Quote"
+  },
+  "footer": {
+    "tagline": "Mobile golf simulator rental for events across Ottawa and Gatineau.",
+    "exploreHeading": "Explore",
+    "contactHeading": "Contact",
+    "areasHeading": "Service Areas",
+    "legalHeading": "Legal",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "form": {
+    "heading": "Request a Quote",
+    "subtitle": "Tell us about your event and we'll get back to you with a custom quote, usually within one business day.",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "eventDate": "Event Date",
+    "eventLocation": "Event Location",
+    "eventType": "Type of Event",
+    "guestCount": "Estimated Guest Count",
+    "setting": "Indoor / Outdoor / Covered",
+    "message": "Message",
+    "optional": "optional",
+    "selectPlaceholder": "Please select…",
+    "settingOptions": {
+      "indoor": "Indoor",
+      "outdoor": "Outdoor",
+      "covered": "Covered"
+    },
+    "eventTypeOptions": {
+      "corporate": "Corporate Event",
+      "tournament": "Golf Tournament",
+      "tradeShow": "Trade Show",
+      "activation": "Brand Activation",
+      "fundraiser": "Fundraiser",
+      "private": "Private Event",
+      "festival": "Festival",
+      "other": "Other"
+    },
+    "submit": "Request a Quote",
+    "sending": "Sending…",
+    "validation": {
+      "required": "This field is required.",
+      "email": "Please enter a valid email address.",
+      "phone": "Please enter a valid phone number."
+    },
+    "successTitle": "Thank you!",
+    "errorGeneric": "Something went wrong. Please try again or email us directly at info@golfbooth.ca."
+  },
+  "thankYou": {
+    "heading": "Thank you — we've got your request!",
+    "body": "We received your event details and will get back to you with a custom quote, usually within one business day. In the meantime, feel free to reach us directly.",
+    "backHome": "Back to Home"
+  },
+  "notFound": {
+    "heading": "Page not found",
+    "body": "The page you're looking for doesn't exist or has moved.",
+    "backHome": "Back to Home",
+    "contact": "Contact Us"
+  },
+  "cookie": {
+    "message": "We use cookies to improve your experience and understand site traffic. You can accept or decline non-essential cookies.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "learnMore": "Learn more"
+  },
+  "ottawaPage": {
+    "hero": {
+      "title": "Golf Simulator Rental in Ottawa",
+      "subtitle": "A premium mobile golf simulator delivered to your Ottawa event — corporate parties, tournaments, trade shows, and more."
+    },
+    "sections": [
+      {
+        "heading": "Mobile golf, anywhere in Ottawa",
+        "paragraphs": [
+          "GolfBooth brings a premium golf simulator directly to your event anywhere in Ottawa. We deliver, set up, run the experience, and pack it all up — so you can focus on your guests. From downtown office towers to venues in Kanata, Orléans, Nepean, and Barrhaven, we've got the National Capital covered.",
+          "Our sleek, branded booth pairs a professional-grade launch monitor with stunning course visuals, giving guests of every skill level a genuinely impressive experience. It's the kind of activation people talk about long after the event ends."
+        ]
+      },
+      {
+        "heading": "Perfect for Ottawa events of every kind",
+        "paragraphs": [
+          "Corporate teams use GolfBooth for holiday parties, client appreciation days, and team-building. Tournament organizers add it for pre-round warm-ups and longest-drive contests. Brands rent it to draw crowds at trade shows and activations across the city.",
+          "Wherever your event is in Ottawa, we'll confirm the space requirements and handle the logistics. All you have to do is tell us the date."
+        ]
+      }
+    ]
+  },
+  "gatineauPage": {
+    "hero": {
+      "title": "Golf Simulator Rental in Gatineau",
+      "subtitle": "A premium mobile golf simulator for your event in Gatineau, Aylmer, Hull, and Chelsea."
+    },
+    "sections": [
+      {
+        "heading": "Mobile golf across Gatineau",
+        "paragraphs": [
+          "GolfBooth delivers a premium golf simulator experience throughout Gatineau and the surrounding communities of Aylmer, Hull, and Chelsea. Our team handles delivery, setup, on-site operation, and teardown, so your event runs effortlessly.",
+          "The booth combines a professional-grade launch monitor with realistic course visuals — an engaging, high-end attraction that works for guests of all skill levels."
+        ]
+      },
+      {
+        "heading": "Built for Gatineau events",
+        "paragraphs": [
+          "From corporate functions and golf tournaments to trade shows, fundraisers, and private celebrations, GolfBooth adds energy and entertainment to any occasion in the region.",
+          "Tell us about your event and venue, and we'll send a custom quote with everything you need to know."
+        ]
+      }
+    ]
+  },
+  "corporatePage": {
+    "hero": {
+      "title": "Corporate Event Entertainment",
+      "subtitle": "Make your next corporate event unforgettable with a premium mobile golf simulator in Ottawa and Gatineau."
+    },
+    "sections": [
+      {
+        "heading": "Entertainment that brings teams together",
+        "paragraphs": [
+          "GolfBooth is a standout addition to corporate events of all sizes — holiday parties, client appreciation events, employee engagement days, and team-building. It gets people interacting, competing, and having fun, without anyone needing to be a golfer.",
+          "We deliver and run the entire experience at your venue, indoors or in a covered outdoor space, so your team can simply enjoy the event."
+        ]
+      },
+      {
+        "heading": "A premium, professional experience",
+        "paragraphs": [
+          "Our branded booth and professional-grade equipment make a strong impression on employees and clients alike. Add custom challenges, leaderboards, and team battles to keep the energy high all event long.",
+          "Request a quote and we'll tailor the GolfBooth experience to your corporate event in Ottawa or Gatineau."
+        ]
+      }
+    ]
+  },
+  "tournamentsPage": {
+    "hero": {
+      "title": "Golf Simulators for Tournaments",
+      "subtitle": "Add a mobile golf simulator to your tournament for warm-ups, contests, and sponsor activations."
+    },
+    "sections": [
+      {
+        "heading": "More than a round of golf",
+        "paragraphs": [
+          "GolfBooth is the perfect complement to charity and corporate golf tournaments. Use it for pre-round warm-ups, longest-drive and closest-to-the-pin contests, or post-round entertainment that keeps everyone engaged.",
+          "It's also a powerful sponsor activation opportunity — a branded, high-visibility attraction that delivers real value to your partners."
+        ]
+      },
+      {
+        "heading": "Seamless setup at your course or venue",
+        "paragraphs": [
+          "Our team handles delivery, setup, and operation, working around your tournament schedule. Whether it's at the clubhouse, the turn, or an indoor reception, GolfBooth slots right in.",
+          "Tell us about your tournament and we'll put together a custom quote for Ottawa, Gatineau, and the surrounding region."
+        ]
+      }
+    ]
+  },
+  "tradeShowsPage": {
+    "hero": {
+      "title": "Trade Show & Brand Activations",
+      "subtitle": "Draw crowds and start conversations with a mobile golf simulator at your next trade show or activation."
+    },
+    "sections": [
+      {
+        "heading": "Turn foot traffic into engagement",
+        "paragraphs": [
+          "Nothing stops booth traffic like the chance to take a swing. GolfBooth is a magnet for attendees, giving your team natural openings to start conversations and capture leads at trade shows across Ottawa and Gatineau.",
+          "The booth can be branded to your company, and we can run contests and leaderboards to keep visitors engaged and coming back."
+        ]
+      },
+      {
+        "heading": "A memorable, premium presence",
+        "paragraphs": [
+          "Our sleek booth and professional-grade equipment elevate your brand's presence and create a genuinely memorable experience for attendees.",
+          "Request a quote and we'll help design a GolfBooth activation that meets your goals for the show."
+        ]
+      }
+    ]
+  },
+  "legal": {
+    "lastUpdatedLabel": "Last updated",
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "June 2026",
+      "sections": [
+        {
+          "heading": "Overview",
+          "paragraphs": [
+            "GolfBooth (\"we\", \"us\", \"our\") respects your privacy and is committed to protecting your personal information in accordance with applicable Canadian and Quebec privacy laws, including Quebec's Law 25. This policy explains what information we collect, why, and how we handle it."
+          ]
+        },
+        {
+          "heading": "Information we collect",
+          "paragraphs": [
+            "When you submit our quote request form, we collect the information you provide, such as your name, company, email address, phone number, event date, event location, event type, estimated guest count, setting preference, and any message you include.",
+            "We may also collect limited, non-identifying analytics data about how visitors use our website (for example, pages viewed), where you have consented to non-essential cookies."
+          ]
+        },
+        {
+          "heading": "How we use your information",
+          "paragraphs": [
+            "We use your information solely to respond to your inquiry, prepare and send a quote, communicate with you about your event, and improve our services. We do not sell your personal information."
+          ]
+        },
+        {
+          "heading": "Cookies and consent",
+          "paragraphs": [
+            "Essential cookies are required for the site to function. Non-essential cookies (such as analytics) are only used with your consent, which you can give or decline using our cookie banner."
+          ]
+        },
+        {
+          "heading": "Data retention",
+          "paragraphs": [
+            "We retain your information only as long as necessary to respond to your request and for reasonable business and legal purposes, after which it is securely deleted."
+          ]
+        },
+        {
+          "heading": "Your rights",
+          "paragraphs": [
+            "You have the right to access, correct, or request deletion of your personal information. To make a request, contact us at info@golfbooth.ca."
+          ]
+        },
+        {
+          "heading": "Contact",
+          "paragraphs": [
+            "For any privacy questions or requests, email info@golfbooth.ca or call (613) 290-1001."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "lastUpdated": "June 2026",
+      "sections": [
+        {
+          "heading": "Acceptance of terms",
+          "paragraphs": [
+            "By accessing and using the GolfBooth website, you agree to these Terms & Conditions. If you do not agree, please do not use the site."
+          ]
+        },
+        {
+          "heading": "Our services",
+          "paragraphs": [
+            "GolfBooth provides mobile golf simulator rental and event services in Ottawa, Gatineau, and surrounding areas. Quote requests submitted through the site are inquiries only and do not constitute a confirmed booking until agreed in writing."
+          ]
+        },
+        {
+          "heading": "Quotes and bookings",
+          "paragraphs": [
+            "Pricing is custom to each event and provided by quote. Bookings, deposits, cancellations, and any other terms specific to your event will be set out in a separate agreement."
+          ]
+        },
+        {
+          "heading": "Intellectual property",
+          "paragraphs": [
+            "All content on this website, including the GolfBooth name, logo, text, and images, is the property of GolfBooth and may not be used without permission."
+          ]
+        },
+        {
+          "heading": "Limitation of liability",
+          "paragraphs": [
+            "The website is provided \"as is\" without warranties of any kind. GolfBooth is not liable for any damages arising from your use of the site."
+          ]
+        },
+        {
+          "heading": "Contact",
+          "paragraphs": [
+            "Questions about these terms? Email info@golfbooth.ca or call (613) 290-1001."
+          ]
+        }
+      ]
+    }
+  }
+}

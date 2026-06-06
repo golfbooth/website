@@ -1,0 +1,490 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Location de simulateur de golf mobile à Ottawa et Gatineau | GolfBooth",
+      "description": "Un simulateur de golf mobile haut de gamme pour vos événements à Ottawa et Gatineau. Parfait pour événements corporatifs, tournois, salons et fêtes privées. Demandez une soumission."
+    },
+    "ottawa": {
+      "title": "Location de simulateur de golf Ottawa | Simulateur mobile | GolfBooth",
+      "description": "Louez un simulateur de golf mobile pour votre événement à Ottawa. GolfBooth livre, installe et anime une expérience de golf premium. Desservant Kanata, Orléans, Nepean, Barrhaven."
+    },
+    "gatineau": {
+      "title": "Location de simulateur de golf Gatineau | Simulateur mobile | GolfBooth",
+      "description": "Simulateur de golf mobile pour événements à Gatineau, Aylmer, Hull et Chelsea. Installation premium, service professionnel, expérience inoubliable. Demandez une soumission."
+    },
+    "corporate": {
+      "title": "Divertissement événementiel corporatif Ottawa-Gatineau | GolfBooth",
+      "description": "Rehaussez votre événement corporatif avec un simulateur de golf mobile. Consolidation d'équipe, fêtes de bureau et événements clients à Ottawa et Gatineau."
+    },
+    "tournaments": {
+      "title": "Location de simulateur pour tournois de golf | GolfBooth",
+      "description": "Ajoutez un simulateur de golf mobile à votre tournoi. Échauffement, concours de coup le plus long et activations de commanditaires. Ottawa et Gatineau."
+    },
+    "tradeShows": {
+      "title": "Activation de kiosque pour salons Ottawa-Gatineau | GolfBooth",
+      "description": "Attirez les foules à votre kiosque avec une activation de simulateur de golf mobile. Premium, engageant et mémorable. Ottawa et Gatineau. Demandez une soumission."
+    },
+    "contact": {
+      "title": "Demander une soumission | GolfBooth Simulateur de golf mobile",
+      "description": "Parlez-nous de votre événement et recevez une soumission personnalisée pour la location d'un simulateur de golf mobile à Ottawa, Gatineau et les environs."
+    },
+    "thankYou": {
+      "title": "Merci | GolfBooth",
+      "description": "Nous avons bien reçu votre demande et vous contacterons sous peu."
+    },
+    "privacy": {
+      "title": "Politique de confidentialité | GolfBooth",
+      "description": "Comment GolfBooth recueille, utilise et protège vos renseignements personnels."
+    },
+    "terms": {
+      "title": "Conditions générales | GolfBooth",
+      "description": "Les conditions générales régissant l'utilisation du site Web et des services de GolfBooth."
+    },
+    "notFound": {
+      "title": "Page introuvable | GolfBooth",
+      "description": "La page que vous recherchez est introuvable."
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "events": "Événements",
+    "corporate": "Événements corporatifs",
+    "tournaments": "Tournois de golf",
+    "tradeShows": "Salons et activations",
+    "ottawa": "Ottawa",
+    "gatineau": "Gatineau",
+    "contact": "Contact",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "cta": {
+    "requestQuote": "Demander une soumission",
+    "seeHowItWorks": "Comment ça fonctionne"
+  },
+  "hero": {
+    "title": "Location de simulateur de golf mobile à Ottawa et Gatineau",
+    "subtitle": "Amenez le jeu à vos invités. Nous livrons, installons et animons une expérience de golf premium partout à Ottawa et Gatineau."
+  },
+  "trust": {
+    "items": [
+      "Installation entièrement mobile",
+      "Intérieur ou extérieur",
+      "Simulateur de qualité pro",
+      "Au service d'Ottawa-Gatineau"
+    ]
+  },
+  "what": {
+    "heading": "Qu'est-ce que GolfBooth?",
+    "lead": "Un simulateur de golf premium qui se déplace jusqu'à votre événement.",
+    "body": "GolfBooth est un kiosque de simulateur de golf élégant et personnalisable que nous amenons à votre lieu, installons et animons pour vos invités. Pas de terrain de golf, pas de tracas — juste une expérience interactive haut de gamme, idéale pour les fêtes corporatives, les tournois, les salons et les événements privés.",
+    "points": [
+      "Moniteur de lancement de qualité professionnelle et visuels de parcours saisissants",
+      "Kiosque élégant et personnalisable adapté aux contextes corporatifs, sportifs et festifs",
+      "Personnel sur place pour l'installation, l'animation des défis et la gestion de la file"
+    ],
+    "imageAlt": "Kiosque de simulateur de golf mobile GolfBooth installé lors d'un événement intérieur"
+  },
+  "video": {
+    "heading": "Le kiosque en action",
+    "subtitle": "Un aperçu de l'expérience GolfBooth — premium, mobile et conçue pour les événements.",
+    "caption": "Rendu 3D présenté. Vraies images d'événements à venir."
+  },
+  "eventTypes": {
+    "heading": "Parfait pour",
+    "subtitle": "Un seul kiosque, des possibilités infinies.",
+    "items": {
+      "corporate": {
+        "title": "Événements corporatifs",
+        "description": "Consolidation d'équipe, reconnaissance des clients et fêtes de bureau mémorables."
+      },
+      "tournaments": {
+        "title": "Tournois de golf",
+        "description": "Échauffements, concours du coup le plus long et activations de commanditaires."
+      },
+      "tradeShows": {
+        "title": "Salons et activations",
+        "description": "Attirez les foules à votre kiosque et transformez l'achalandage en conversations."
+      },
+      "private": {
+        "title": "Privé et festivals",
+        "description": "Collectes de fonds, anniversaires, mariages et festivals communautaires."
+      }
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "steps": [
+      {
+        "title": "Demandez une soumission",
+        "description": "Indiquez votre date, votre lieu et votre type d'événement. Nous vous envoyons une soumission personnalisée."
+      },
+      {
+        "title": "Planifiez votre événement",
+        "description": "Nous confirmons les détails, l'espace et toute personnalisation ou défi sur mesure."
+      },
+      {
+        "title": "Nous livrons et installons",
+        "description": "Notre équipe arrive, installe le kiosque et s'occupe de tout sur place."
+      },
+      {
+        "title": "Vos invités jouent",
+        "description": "Nous animons l'expérience pendant que vous profitez de l'événement avec vos invités."
+      }
+    ]
+  },
+  "challenges": {
+    "heading": "Défis de golf",
+    "subtitle": "Une compétition amicale qui ramène les invités.",
+    "items": [
+      {
+        "title": "Coup le plus long",
+        "description": "Qui frappera le plus loin? Un favori du classement."
+      },
+      {
+        "title": "Plus près du trou",
+        "description": "La précision avant la puissance — parfait pour tous les niveaux."
+      },
+      {
+        "title": "Défis d'équipe",
+        "description": "Département contre département, table contre table — montez l'énergie."
+      },
+      {
+        "title": "Parcours célèbres",
+        "description": "Jouez des parcours de renommée mondiale sans quitter la salle."
+      }
+    ]
+  },
+  "whyBook": {
+    "heading": "Pourquoi choisir GolfBooth?",
+    "items": [
+      {
+        "title": "Entièrement mobile",
+        "description": "Nous venons à vous — tout lieu, intérieur ou extérieur, partout à Ottawa et Gatineau."
+      },
+      {
+        "title": "Équipement premium",
+        "description": "Un moniteur de lancement de qualité professionnelle et des visuels de parcours réalistes."
+      },
+      {
+        "title": "Installation professionnelle",
+        "description": "Notre équipe s'occupe de la livraison, de l'installation et du démontage. Vous ne faites rien."
+      },
+      {
+        "title": "Conçu pour les événements",
+        "description": "Pensé pour divertir les foules et créer des moments — pas seulement frapper des balles."
+      }
+    ]
+  },
+  "serviceArea": {
+    "heading": "Au service d'Ottawa et Gatineau",
+    "body": "GolfBooth dessert fièrement toute la région de la capitale nationale et les communautés environnantes.",
+    "ottawaCta": "Location de simulateur de golf à Ottawa",
+    "gatineauCta": "Location de simulateur de golf à Gatineau"
+  },
+  "faq": {
+    "heading": "Foire aux questions",
+    "subtitle": "Tout ce qu'il faut savoir pour commencer.",
+    "items": [
+      {
+        "question": "Quel espace faut-il pour le kiosque?",
+        "answer": "Le kiosque s'adapte à la plupart des espaces intérieurs et extérieurs. Une fois votre lieu connu, nous confirmons l'empreinte au sol et la hauteur de plafond requises."
+      },
+      {
+        "question": "Vous occupez-vous de toute l'installation?",
+        "answer": "Oui. Notre équipe gère la livraison, l'installation complète, l'animation sur place et le démontage. Vous n'avez qu'à profiter de votre événement."
+      },
+      {
+        "question": "Quelles régions desservez-vous?",
+        "answer": "Nous desservons Ottawa, Gatineau et les communautés environnantes, dont Kanata, Orléans, Nepean, Barrhaven, Aylmer, Hull et Chelsea."
+      },
+      {
+        "question": "Est-ce possible à l'intérieur et à l'extérieur?",
+        "answer": "Les deux. Le kiosque est conçu pour les lieux intérieurs et les installations extérieures couvertes. Dites-nous votre plan et nous vous conseillerons."
+      },
+      {
+        "question": "Combien de temps à l'avance faut-il réserver?",
+        "answer": "Le plus tôt sera le mieux, surtout en haute saison. Écrivez-nous avec votre date et nous confirmerons la disponibilité."
+      },
+      {
+        "question": "Comment obtenir un prix?",
+        "answer": "Le prix est personnalisé selon votre événement. Demandez une soumission avec vos détails et nous vous enverrons une estimation sur mesure."
+      }
+    ]
+  },
+  "finalCta": {
+    "heading": "Prêt à amener GolfBooth à votre événement?",
+    "subtitle": "Parlez-nous de votre événement et nous vous enverrons une soumission personnalisée — généralement en un jour ouvrable.",
+    "button": "Demander une soumission"
+  },
+  "footer": {
+    "tagline": "Location de simulateur de golf mobile pour événements à Ottawa et Gatineau.",
+    "exploreHeading": "Explorer",
+    "contactHeading": "Contact",
+    "areasHeading": "Zones desservies",
+    "legalHeading": "Légal",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales"
+  },
+  "form": {
+    "heading": "Demander une soumission",
+    "subtitle": "Parlez-nous de votre événement et nous vous reviendrons avec une soumission personnalisée, généralement en un jour ouvrable.",
+    "name": "Nom",
+    "company": "Entreprise",
+    "email": "Courriel",
+    "phone": "Téléphone",
+    "eventDate": "Date de l'événement",
+    "eventLocation": "Lieu de l'événement",
+    "eventType": "Type d'événement",
+    "guestCount": "Nombre d'invités estimé",
+    "setting": "Intérieur / Extérieur / Couvert",
+    "message": "Message",
+    "optional": "facultatif",
+    "selectPlaceholder": "Veuillez choisir…",
+    "settingOptions": {
+      "indoor": "Intérieur",
+      "outdoor": "Extérieur",
+      "covered": "Couvert"
+    },
+    "eventTypeOptions": {
+      "corporate": "Événement corporatif",
+      "tournament": "Tournoi de golf",
+      "tradeShow": "Salon professionnel",
+      "activation": "Activation de marque",
+      "fundraiser": "Collecte de fonds",
+      "private": "Événement privé",
+      "festival": "Festival",
+      "other": "Autre"
+    },
+    "submit": "Demander une soumission",
+    "sending": "Envoi…",
+    "validation": {
+      "required": "Ce champ est obligatoire.",
+      "email": "Veuillez entrer une adresse courriel valide.",
+      "phone": "Veuillez entrer un numéro de téléphone valide."
+    },
+    "successTitle": "Merci!",
+    "errorGeneric": "Une erreur s'est produite. Veuillez réessayer ou nous écrire directement à info@golfbooth.ca."
+  },
+  "thankYou": {
+    "heading": "Merci — nous avons reçu votre demande!",
+    "body": "Nous avons bien reçu les détails de votre événement et vous reviendrons avec une soumission personnalisée, généralement en un jour ouvrable. Entre-temps, n'hésitez pas à nous joindre directement.",
+    "backHome": "Retour à l'accueil"
+  },
+  "notFound": {
+    "heading": "Page introuvable",
+    "body": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "backHome": "Retour à l'accueil",
+    "contact": "Nous joindre"
+  },
+  "cookie": {
+    "message": "Nous utilisons des témoins pour améliorer votre expérience et comprendre le trafic du site. Vous pouvez accepter ou refuser les témoins non essentiels.",
+    "accept": "Accepter",
+    "decline": "Refuser",
+    "learnMore": "En savoir plus"
+  },
+  "ottawaPage": {
+    "hero": {
+      "title": "Location de simulateur de golf à Ottawa",
+      "subtitle": "Un simulateur de golf mobile premium livré à votre événement à Ottawa — fêtes corporatives, tournois, salons et plus."
+    },
+    "sections": [
+      {
+        "heading": "Le golf mobile, partout à Ottawa",
+        "paragraphs": [
+          "GolfBooth amène un simulateur de golf premium directement à votre événement, partout à Ottawa. Nous livrons, installons, animons l'expérience et remballons le tout — pour que vous puissiez vous concentrer sur vos invités. Des tours de bureaux du centre-ville aux lieux de Kanata, Orléans, Nepean et Barrhaven, nous couvrons toute la capitale nationale.",
+          "Notre kiosque élégant et personnalisable combine un moniteur de lancement de qualité professionnelle à des visuels de parcours saisissants, offrant à des invités de tous les niveaux une expérience réellement impressionnante. C'est le genre d'activation dont on parle longtemps après l'événement."
+        ]
+      },
+      {
+        "heading": "Parfait pour tous les événements à Ottawa",
+        "paragraphs": [
+          "Les équipes corporatives utilisent GolfBooth pour leurs fêtes des Fêtes, leurs journées de reconnaissance des clients et la consolidation d'équipe. Les organisateurs de tournois l'ajoutent pour les échauffements et les concours du coup le plus long. Les marques le louent pour attirer les foules aux salons et activations partout en ville.",
+          "Où que soit votre événement à Ottawa, nous confirmons les besoins d'espace et gérons la logistique. Vous n'avez qu'à nous indiquer la date."
+        ]
+      }
+    ]
+  },
+  "gatineauPage": {
+    "hero": {
+      "title": "Location de simulateur de golf à Gatineau",
+      "subtitle": "Un simulateur de golf mobile premium pour votre événement à Gatineau, Aylmer, Hull et Chelsea."
+    },
+    "sections": [
+      {
+        "heading": "Le golf mobile partout à Gatineau",
+        "paragraphs": [
+          "GolfBooth offre une expérience de simulateur de golf premium dans tout Gatineau et les communautés environnantes d'Aylmer, Hull et Chelsea. Notre équipe gère la livraison, l'installation, l'animation sur place et le démontage, pour que votre événement se déroule sans effort.",
+          "Le kiosque combine un moniteur de lancement de qualité professionnelle à des visuels de parcours réalistes — une attraction haut de gamme et engageante qui convient aux invités de tous les niveaux."
+        ]
+      },
+      {
+        "heading": "Conçu pour les événements à Gatineau",
+        "paragraphs": [
+          "Des fonctions corporatives et tournois de golf aux salons, collectes de fonds et célébrations privées, GolfBooth ajoute de l'énergie et du divertissement à toute occasion dans la région.",
+          "Parlez-nous de votre événement et de votre lieu, et nous vous enverrons une soumission personnalisée avec tout ce qu'il faut savoir."
+        ]
+      }
+    ]
+  },
+  "corporatePage": {
+    "hero": {
+      "title": "Divertissement événementiel corporatif",
+      "subtitle": "Rendez votre prochain événement corporatif inoubliable avec un simulateur de golf mobile premium à Ottawa et Gatineau."
+    },
+    "sections": [
+      {
+        "heading": "Un divertissement qui rassemble les équipes",
+        "paragraphs": [
+          "GolfBooth est un ajout remarquable aux événements corporatifs de toutes tailles — fêtes des Fêtes, événements de reconnaissance des clients, journées d'engagement des employés et consolidation d'équipe. Il fait interagir, rivaliser et s'amuser les gens, sans que personne n'ait besoin d'être golfeur.",
+          "Nous livrons et animons toute l'expérience à votre lieu, à l'intérieur ou dans un espace extérieur couvert, pour que votre équipe profite simplement de l'événement."
+        ]
+      },
+      {
+        "heading": "Une expérience premium et professionnelle",
+        "paragraphs": [
+          "Notre kiosque personnalisable et notre équipement de qualité professionnelle font forte impression auprès des employés comme des clients. Ajoutez des défis sur mesure, des classements et des affrontements d'équipe pour garder l'énergie au sommet tout au long de l'événement.",
+          "Demandez une soumission et nous adapterons l'expérience GolfBooth à votre événement corporatif à Ottawa ou Gatineau."
+        ]
+      }
+    ]
+  },
+  "tournamentsPage": {
+    "hero": {
+      "title": "Simulateurs de golf pour tournois",
+      "subtitle": "Ajoutez un simulateur de golf mobile à votre tournoi pour les échauffements, les concours et les activations de commanditaires."
+    },
+    "sections": [
+      {
+        "heading": "Plus qu'une ronde de golf",
+        "paragraphs": [
+          "GolfBooth est le complément idéal des tournois de golf caritatifs et corporatifs. Utilisez-le pour les échauffements d'avant-ronde, les concours du coup le plus long et du plus près du trou, ou le divertissement d'après-ronde qui garde tout le monde engagé.",
+          "C'est aussi une puissante occasion d'activation de commanditaires — une attraction de marque très visible qui offre une réelle valeur à vos partenaires."
+        ]
+      },
+      {
+        "heading": "Une installation sans souci à votre club ou lieu",
+        "paragraphs": [
+          "Notre équipe gère la livraison, l'installation et l'animation, en s'adaptant à l'horaire de votre tournoi. Que ce soit au pavillon, au tournant ou lors d'une réception intérieure, GolfBooth s'intègre parfaitement.",
+          "Parlez-nous de votre tournoi et nous préparerons une soumission personnalisée pour Ottawa, Gatineau et la région environnante."
+        ]
+      }
+    ]
+  },
+  "tradeShowsPage": {
+    "hero": {
+      "title": "Salons et activations de marque",
+      "subtitle": "Attirez les foules et lancez des conversations avec un simulateur de golf mobile à votre prochain salon ou activation."
+    },
+    "sections": [
+      {
+        "heading": "Transformez l'achalandage en engagement",
+        "paragraphs": [
+          "Rien n'arrête l'achalandage comme la chance de frapper un coup. GolfBooth est un aimant pour les participants, offrant à votre équipe des occasions naturelles d'entamer des conversations et de capter des prospects lors des salons à Ottawa et Gatineau.",
+          "Le kiosque peut être personnalisé aux couleurs de votre entreprise, et nous pouvons animer des concours et des classements pour garder les visiteurs engagés et les faire revenir."
+        ]
+      },
+      {
+        "heading": "Une présence mémorable et premium",
+        "paragraphs": [
+          "Notre kiosque élégant et notre équipement de qualité professionnelle rehaussent la présence de votre marque et créent une expérience réellement mémorable pour les participants.",
+          "Demandez une soumission et nous vous aiderons à concevoir une activation GolfBooth qui répond à vos objectifs pour le salon."
+        ]
+      }
+    ]
+  },
+  "legal": {
+    "lastUpdatedLabel": "Dernière mise à jour",
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "lastUpdated": "Juin 2026",
+      "sections": [
+        {
+          "heading": "Aperçu",
+          "paragraphs": [
+            "GolfBooth (« nous », « notre ») respecte votre vie privée et s'engage à protéger vos renseignements personnels conformément aux lois canadiennes et québécoises applicables en matière de protection de la vie privée, dont la Loi 25 du Québec. La présente politique explique quels renseignements nous recueillons, pourquoi et comment nous les traitons."
+          ]
+        },
+        {
+          "heading": "Renseignements que nous recueillons",
+          "paragraphs": [
+            "Lorsque vous soumettez notre formulaire de demande de soumission, nous recueillons les renseignements que vous fournissez, tels que votre nom, votre entreprise, votre adresse courriel, votre numéro de téléphone, la date de l'événement, le lieu, le type d'événement, le nombre d'invités estimé, la préférence d'emplacement et tout message que vous incluez.",
+            "Nous pouvons aussi recueillir des données analytiques limitées et non identifiantes sur l'utilisation de notre site (par exemple, les pages consultées), lorsque vous avez consenti aux témoins non essentiels."
+          ]
+        },
+        {
+          "heading": "Utilisation de vos renseignements",
+          "paragraphs": [
+            "Nous utilisons vos renseignements uniquement pour répondre à votre demande, préparer et envoyer une soumission, communiquer avec vous au sujet de votre événement et améliorer nos services. Nous ne vendons pas vos renseignements personnels."
+          ]
+        },
+        {
+          "heading": "Témoins et consentement",
+          "paragraphs": [
+            "Les témoins essentiels sont nécessaires au fonctionnement du site. Les témoins non essentiels (comme l'analytique) ne sont utilisés qu'avec votre consentement, que vous pouvez donner ou refuser à l'aide de notre bannière de témoins."
+          ]
+        },
+        {
+          "heading": "Conservation des données",
+          "paragraphs": [
+            "Nous conservons vos renseignements uniquement le temps nécessaire pour répondre à votre demande et à des fins commerciales et légales raisonnables, après quoi ils sont supprimés de façon sécuritaire."
+          ]
+        },
+        {
+          "heading": "Vos droits",
+          "paragraphs": [
+            "Vous avez le droit d'accéder à vos renseignements personnels, de les corriger ou d'en demander la suppression. Pour faire une demande, écrivez-nous à info@golfbooth.ca."
+          ]
+        },
+        {
+          "heading": "Contact",
+          "paragraphs": [
+            "Pour toute question ou demande relative à la confidentialité, écrivez à info@golfbooth.ca ou appelez le (613) 290-1001."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Conditions générales",
+      "lastUpdated": "Juin 2026",
+      "sections": [
+        {
+          "heading": "Acceptation des conditions",
+          "paragraphs": [
+            "En accédant au site Web de GolfBooth et en l'utilisant, vous acceptez les présentes conditions générales. Si vous n'êtes pas d'accord, veuillez ne pas utiliser le site."
+          ]
+        },
+        {
+          "heading": "Nos services",
+          "paragraphs": [
+            "GolfBooth offre la location de simulateurs de golf mobiles et des services événementiels à Ottawa, Gatineau et les environs. Les demandes de soumission soumises sur le site sont des demandes d'information seulement et ne constituent pas une réservation confirmée tant qu'elle n'est pas convenue par écrit."
+          ]
+        },
+        {
+          "heading": "Soumissions et réservations",
+          "paragraphs": [
+            "Le prix est personnalisé pour chaque événement et fourni par soumission. Les réservations, dépôts, annulations et toute autre modalité propre à votre événement seront précisés dans une entente distincte."
+          ]
+        },
+        {
+          "heading": "Propriété intellectuelle",
+          "paragraphs": [
+            "Tout le contenu de ce site Web, y compris le nom GolfBooth, le logo, les textes et les images, est la propriété de GolfBooth et ne peut être utilisé sans autorisation."
+          ]
+        },
+        {
+          "heading": "Limitation de responsabilité",
+          "paragraphs": [
+            "Le site Web est fourni « tel quel », sans garantie d'aucune sorte. GolfBooth n'est pas responsable des dommages découlant de votre utilisation du site."
+          ]
+        },
+        {
+          "heading": "Contact",
+          "paragraphs": [
+            "Des questions sur ces conditions? Écrivez à info@golfbooth.ca ou appelez le (613) 290-1001."
+          ]
+        }
+      ]
+    }
+  }
+}
