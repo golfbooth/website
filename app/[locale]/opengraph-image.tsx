@@ -8,13 +8,14 @@ export const alt =
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-const LOGO_HEIGHT = 108;
-const LOGO_WIDTH = Math.round(LOGO_HEIGHT * (3760 / 780));
+const LOGO_ASPECT = 4200 / 1350;
+const LOGO_HEIGHT = 156;
+const LOGO_WIDTH = Math.round(LOGO_HEIGHT * LOGO_ASPECT);
 
 export default async function OgImage() {
   const [oswald, logo] = await Promise.all([
     readFile(join(process.cwd(), "public/fonts/Oswald-Bold.woff")),
-    readFile(join(process.cwd(), "public/brand/logo.png")),
+    readFile(join(process.cwd(), "public/brand/logo-front.png")),
   ]);
 
   const logoSrc = `data:image/png;base64,${logo.toString("base64")}`;
@@ -28,7 +29,7 @@ export default async function OgImage() {
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-between",
-          padding: "72px 80px",
+          padding: "64px 72px",
           backgroundColor: "#0a0a0a",
           color: "#ffffff",
           fontFamily: "Oswald",
@@ -42,7 +43,7 @@ export default async function OgImage() {
             justifyContent: "center",
           }}
         >
-          <div style={{ display: "flex", alignItems: "flex-start", gap: 20 }}>
+          <div style={{ display: "flex", alignItems: "center", gap: 24 }}>
             <div
               style={{
                 width: 6,
@@ -63,12 +64,12 @@ export default async function OgImage() {
 
           <div
             style={{
-              marginTop: 36,
-              fontSize: 46,
+              marginTop: 32,
+              fontSize: 42,
               fontWeight: 700,
-              lineHeight: 1.15,
+              lineHeight: 1.2,
               letterSpacing: "-0.5px",
-              maxWidth: 980,
+              maxWidth: 1000,
             }}
           >
             Mobile Golf Simulator Rental in Ottawa &amp; Gatineau
@@ -81,12 +82,12 @@ export default async function OgImage() {
             alignItems: "center",
             justifyContent: "space-between",
             borderTop: "1px solid #262626",
-            paddingTop: 28,
+            paddingTop: 24,
           }}
         >
           <div
             style={{
-              fontSize: 30,
+              fontSize: 28,
               fontWeight: 700,
               letterSpacing: "2px",
               color: "#a1a1a1",
@@ -94,17 +95,6 @@ export default async function OgImage() {
             }}
           >
             {site.domain}
-          </div>
-          <div
-            style={{
-              fontSize: 22,
-              fontWeight: 700,
-              letterSpacing: "1px",
-              color: "#1b6b3a",
-              textTransform: "uppercase",
-            }}
-          >
-            {site.descriptor}
           </div>
         </div>
       </div>
