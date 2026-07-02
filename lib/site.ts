@@ -17,11 +17,15 @@ export const site = {
     "Hull",
     "Chelsea",
   ],
-  // Add once the Google Business Profile is verified.
+  // Add your Google Business Profile URL once verified (helps SEO + sameAs schema).
   social: {
     googleBusiness: "",
     instagram: "",
     facebook: "",
+  },
+  geo: {
+    latitude: 45.4215,
+    longitude: -75.6972,
   },
 } as const;
 

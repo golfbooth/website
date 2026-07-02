@@ -10,29 +10,48 @@ function url(locale: Locale, href: AppPathname): string {
 export function localBusinessSchema() {
   return {
     "@context": "https://schema.org",
-    "@type": "ProfessionalService",
+    "@type": "LocalBusiness",
     "@id": `${site.url}/#business`,
     name: site.name,
     description:
-      "Mobile golf simulator rental for events in Ottawa and Gatineau.",
+      "Premium mobile golf simulator rental for corporate events, tournaments, trade shows, and private parties in Ottawa and Gatineau.",
     url: site.url,
     email: site.email,
     telephone: site.phoneE164,
-    image: `${site.url}/brand/logo.png`,
-    logo: `${site.url}/brand/logo.png`,
+    image: `${site.url}/brand/logo-front.png`,
+    logo: `${site.url}/brand/logo-front.png`,
     priceRange: "$$",
     areaServed: site.areasServed.map((name) => ({
       "@type": "City",
       name,
     })),
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: site.geo.latitude,
+      longitude: site.geo.longitude,
+    },
     address: {
       "@type": "PostalAddress",
+      addressLocality: "Ottawa",
       addressRegion: "ON",
       addressCountry: "CA",
     },
     ...(site.social.googleBusiness
       ? { sameAs: [site.social.googleBusiness] }
       : {}),
+  };
+}
+
+export function videoSchema(name: string, description: string) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name,
+    description,
+    thumbnailUrl: `${site.url}/images/video-poster.png`,
+    contentUrl: `${site.url}/videos/booth-showcase.mp4`,
+    uploadDate: "2026-07-02",
+    publisher: { "@id": `${site.url}/#business` },
   };
 }
 

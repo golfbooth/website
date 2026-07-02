@@ -13,10 +13,10 @@ export function VideoShowcase() {
             className="aspect-video w-full"
             controls
             playsInline
-            preload="none"
-            poster="/images/booth-hero.png"
+            preload="metadata"
+            poster="/images/video-poster.png"
           >
-            <source src="/videos/booth-render.mp4" type="video/mp4" />
+            <source src="/videos/booth-showcase.mp4" type="video/mp4" />
           </video>
         </div>
         <p className="mt-4 text-center text-xs text-muted">{t("caption")}</p>

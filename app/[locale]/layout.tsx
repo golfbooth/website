@@ -21,6 +21,9 @@ export const metadata: Metadata = {
     template: `%s`,
   },
   applicationName: site.name,
+  ...(process.env.GOOGLE_SITE_VERIFICATION
+    ? { verification: { google: process.env.GOOGLE_SITE_VERIFICATION } }
+    : {}),
 };
 
 export default async function LocaleLayout({

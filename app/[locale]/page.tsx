@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { pageMetadata } from "@/lib/seo";
-import { faqSchema, localBusinessSchema } from "@/lib/schema";
+import { faqSchema, localBusinessSchema, videoSchema } from "@/lib/schema";
 import type { Locale } from "@/i18n/routing";
 import { Hero } from "@/components/Hero";
 import { TrustBar } from "@/components/TrustBar";
@@ -35,11 +35,18 @@ export default async function HomePage({ params }: Props) {
   setRequestLocale(locale);
 
   const tf = await getTranslations({ locale, namespace: "faq" });
+  const tv = await getTranslations({ locale, namespace: "video" });
   const faqItems = tf.raw("items") as { question: string; answer: string }[];
 
   return (
     <>
-      <JsonLd data={[localBusinessSchema(), faqSchema(faqItems)]} />
+      <JsonLd
+        data={[
+          localBusinessSchema(),
+          faqSchema(faqItems),
+          videoSchema(tv("heading"), tv("subtitle")),
+        ]}
+      />
       <Hero />
       <TrustBar />
       <WhatIs />
